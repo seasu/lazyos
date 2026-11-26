@@ -1,4 +1,4 @@
-<!-- LAZYOS:BEGIN v4.0 source=https://raw.githubusercontent.com/seasu/lazyos/main/AGENTS.md 更新時只替換本行至 LAZYOS:END 之間的內容，其下為專案指引 -->
+<!-- LAZYOS:BEGIN v4.0 source=https://raw.githubusercontent.com/seasu/lazyos/main/AGENTS.md 更新時只替換本行到結束標記之間的內容，結束標記以下是專案指引 -->
 # LazyOS v4.0
 
 **Think More. Do Less.**  
